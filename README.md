@@ -1,1 +1,1 @@
-[Texto do link](https://lyrioty.github.io/Nova-pagina/)
+[Visitar pagina](https://lyrioty.github.io/Nova-pagina/)
