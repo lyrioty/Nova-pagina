@@ -1,1 +1,3 @@
-<a href="[https://lyrioty.github.io/Nova-pagina/]">Acessar HTML teste</a>
+[Texto do link](As profecia de Bjorn teste chrome.html)
+
+[Acesse meu HTML](https://lyrioty.github.io/Nova-pagina/)
